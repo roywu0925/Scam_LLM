@@ -64,14 +64,4 @@ The output will include:
 
 ---
 
-## Conclusion
 
-This project demonstrates a basic **website scam detector**. Its core principle is **analyzing URL and HTML patterns**, not just relying on a static blacklist.
-
-Future directions include:
-
-* Validating SSL/TLS certificates
-* Detecting scam-related keywords in webpage text
-* Checking external links for safety
-
-The goal is to help users quickly identify phishing websites and reduce financial damages caused by online scams.
